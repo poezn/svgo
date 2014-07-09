@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <g id=".test">
+        <g id=".two-.classes">
+            <path d="..."/>
+        </g>
+    </g>
+</svg>
+
+@@@
+
+<svg xmlns="http://www.w3.org/2000/svg">
+    <g class="test">
+        <g class="two classes">
+            <path d="..."/>
+        </g>
+    </g>
+</svg>
